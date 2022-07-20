@@ -15,9 +15,9 @@
 - 문제유형(DP, 그리디... 등)을 숙지 후 문제 푸는 것을 권장:exclamation:
 
 ### :rainbow: Contributors
-| [전창열] | [이제원](https://github.com/JaeHuiIn) | 
+| [전창열] | [이제원] | 
 |:-------------------:|:-------------------:|
-|   **[김영효](https://github.com/africanssong)**   | **[김민지](https://github.com/jewonjewon)** |
+|   **[김영효])**   | **[김민지]** |
 
 ### :dart: Week Study(2021-)
 | 날짜 | 문제유형      | 문제                                                         |

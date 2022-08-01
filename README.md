@@ -21,6 +21,7 @@
     - 온라인 검색을 통해 정답을 찾고 해당 코드의 주요 아이디어를 주석으로 표기한 파일 업로드.
     - (오답노트는 토-일 진행하여 월요일 이전까지 파일 업로드)
  - 각 파일 업로드 시 "문제번호-이름-성공or실패or찾은파일"의 형태로 명시
+ - 성공하면 아무때나 업로드
 
 ### :rainbow: Contributors
 | **[전창열](https://github.com/africanssong)**  | **[이제원](https://github.com/jewonjewon)**  | 

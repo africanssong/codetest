@@ -18,9 +18,9 @@
   - 오답노트는 토-일 진행하여 월요일 이전까지 파일 업로드 
  
 ### :rainbow: Contributors
-| **[전창열](https://github.com/africanssong)**  | **[이제원]**  | 
+| **[전창열](https://github.com/africanssong)**  | **[이제원](https://github.com/jewonjewon)**  | 
 |:-------------------:|:-------------------:|
-|   **[김영효](https://github.com/0hyo)**   | **[김민지]** |
+|   **[김영효](https://github.com/0hyo)**   | **[김민지](https://github.com/enoma422)** |
 
 ### :dart: Week Study(2021-)
 | 날짜 | 문제유형      | 문제                                                         |

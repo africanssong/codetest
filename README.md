@@ -34,8 +34,8 @@
 | 2022.08.01.~2022.08.05. (1week) |수학   |[백준 1978 - 소수찾기](https://www.acmicpc.net/problem/1978) | 
 | 2022.08.08.~2022.08.12. (2week) |부분합   |[백준 11659 - 구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | 
 | 2022.08.08.~2022.08.12. (2week) |부분합   |[백준 2167 - 2차원 배열의 합](https://www.acmicpc.net/problem/2167) | 
-| 2022.08.15.~2022.08.19. (3week) |수학     |[백준 1929 - 소수구하기](https://www.acmicpc.net/problem/1929)
-
+| 2022.08.15.~2022.08.19. (3week) |수학     |[백준 1929 - 소수구하기](https://www.acmicpc.net/problem/1929)|
+| 2022.08.15.~2022.08.19. (3week) |비트마스킹 |[백준 1094 - 막대기](https://www.acmicpc.net/problem/1094)
 
 
 ### 💡목표💡 

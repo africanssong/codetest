@@ -46,7 +46,12 @@
 | 2022.09.12.~2022.09.16. (7week) |다이나믹 프로그래밍|[백준 11727 - 2xn 타일링2 ](https://www.acmicpc.net/problem/11727)|
 | 2022.09.19.~2022.09.23. (8week) |다이나믹 프로그래밍|[백준 1699 - 제곱수의합 ](https://www.acmicpc.net/problem/1699)|
 | 2022.09.19.~2022.09.23. (8week) |다이나믹 프로그래밍|[백준 2156 - 포도주시식 ](https://www.acmicpc.net/problem/2156)|
-
+| 2022.09.26.~2022.09.30. (9week) |그래프 탐색|[백준 1260 - DFS와 BFS](https://www.acmicpc.net/problem/1260)|
+| 2022.09.26.~2022.09.30. (9week) |그래프 탐색|[백준 2178 - 미로탐색](https://www.acmicpc.net/problem/2178)|
+| 2022.09.26.~2022.09.30. (9week) |그래프 탐색|[백준 2606 - 바이러스](https://www.acmicpc.net/problem/2606)|
+| 2022.09.26.~2022.09.30. (10week) |그래프 탐색|[백준 2667 - 단지번호붙이기](https://www.acmicpc.net/problem/2667)|
+| 2022.09.26.~2022.09.30. (10week) |그래프 탐색|[백준 1012 - 유기농배추](https://www.acmicpc.net/problem/1012)|
+| 2022.09.26.~2022.09.30. (10week) |그래프 탐색|[백준 11724 - 연결요소의개수](https://www.acmicpc.net/problem/11724)|
 
 
 ### 💡목표💡 

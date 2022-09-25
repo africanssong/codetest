@@ -49,9 +49,9 @@
 | 2022.09.26.~2022.09.30. (9week) |그래프 탐색|[백준 1260 - DFS와 BFS](https://www.acmicpc.net/problem/1260)|
 | 2022.09.26.~2022.09.30. (9week) |그래프 탐색|[백준 2178 - 미로탐색](https://www.acmicpc.net/problem/2178)|
 | 2022.09.26.~2022.09.30. (9week) |그래프 탐색|[백준 2606 - 바이러스](https://www.acmicpc.net/problem/2606)|
-| 2022.09.26.~2022.09.30. (10week) |그래프 탐색|[백준 2667 - 단지번호붙이기](https://www.acmicpc.net/problem/2667)|
-| 2022.09.26.~2022.09.30. (10week) |그래프 탐색|[백준 1012 - 유기농배추](https://www.acmicpc.net/problem/1012)|
-| 2022.09.26.~2022.09.30. (10week) |그래프 탐색|[백준 11724 - 연결요소의개수](https://www.acmicpc.net/problem/11724)|
+| 2022.10.03.~2022.10.07. (10week) |그래프 탐색|[백준 2667 - 단지번호붙이기](https://www.acmicpc.net/problem/2667)|
+| 2022.10.03.~2022.10.07. (10week) |그래프 탐색|[백준 1012 - 유기농배추](https://www.acmicpc.net/problem/1012)|
+| 2022.10.03.~2022.10.07. (10week) |그래프 탐색|[백준 11724 - 연결요소의개수](https://www.acmicpc.net/problem/11724)|
 
 
 ### 💡목표💡 
